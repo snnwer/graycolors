@@ -1,11 +1,11 @@
 /* Gray */
 .theme-dark {
-  --accent-color: #4B4FD0 !important;
+  --accent-color: #ffffff !important;
   --background-1: #191919 !important;
   --background-2: #232323 !important;
   --border-color: #282828 !important;
-  --background-mentioned: #4B4FD0 !important;
-  --background-mentioned-hover: #4B4FD0 !important;
+  --background-mentioned: #4b4fd0 !important;
+  --background-mentioned-hover: #4b4fd0 !important;
   --background-modifier-hover: #2a2a2a !important;
   --background-modifier-active: #5d5d5d !important;
   --text-normal: var(--accent-color) !important;
