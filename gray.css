@@ -1,8 +1,8 @@
 /* Gray */
 .theme-dark {
   --accent-color: #FFFFFF !important;
-  --background-1: #191919 !important;
-  --background-2: #222222 !important;
+  --background-1: #1E1E1E !important;
+  --background-2: #212121 !important;
   --border-color: #282828 !important;
   --background-mentioned: #4D4D4D !important;
   --background-mentioned-hover: #36364D !important;
