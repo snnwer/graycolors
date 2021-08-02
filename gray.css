@@ -2,7 +2,7 @@
 .theme-dark {
   --accent-color: #FFFFFF !important;
   --background-1: #191919 !important;
-  --background-2: #232323 !important;
+  --background-2: #222222 !important;
   --border-color: #282828 !important;
   --background-mentioned: #4D4D4D !important;
   --background-mentioned-hover: #36364D !important;
@@ -61,14 +61,14 @@
   --interactive-selected: var(--background-primary) !important;
   --background-modifier-accent: transparent !important;
   --background-message-hover: transparent !important;
-  --interactive-normal: var(--background-2) !important;
+  --interactive-normal: var(--text-normal) !important;
   --interactive-muted: var(--button-background-active) !important;
   --channels-default: var(--text-muted) !important;
   --header-primary: var(--text-normal) !important;
   --header-secondary: var(--text-muted) !important;
   --control-brand-foreground: var(--accent-color) !important;
   --info-warning-foreground: var(--accent-color) !important;
-  --activity-card-background: var(--background-1) !important;
+  --activity-card-background: var(--text-normal) !important;
   --brand-experiment: var(--accent-color) !important;
   --button-accent: var(--accent-color) !important;
   --interactive-active: #95C3EB !important;
