@@ -22,6 +22,7 @@
   --button-destructive: #fb7c7c !important;
   --button-destructive-hover: #ff929b !important;
   --button-destructive-active: #fa4a4a !important;
+  --button-positive: #29DA00
 }
 .theme-light {
   --accent-color: #61717c !important;
@@ -70,7 +71,7 @@
   --info-warning-foreground: var(--accent-color) !important;
   --activity-card-background: var(--text-normal) !important;
   --brand-experiment: var(--accent-color) !important;
-  --button-accent: #89FF68 !important;
+  --button-accent: var(--button-positive) !important;
   --interactive-active: #95C3EB !important;
   --interactive-hover: var(--interactive-normal) !important;
 }
