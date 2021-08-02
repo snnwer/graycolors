@@ -61,7 +61,7 @@
   --interactive-selected: var(--background-primary) !important;
   --background-modifier-accent: transparent !important;
   --background-message-hover: transparent !important;
-  --interactive-normal: var(--accent-color) !important;
+  --interactive-normal: var(--background-2) !important;
   --interactive-muted: var(--button-background-active) !important;
   --channels-default: var(--text-muted) !important;
   --header-primary: var(--text-normal) !important;
@@ -71,6 +71,6 @@
   --activity-card-background: var(--background-1) !important;
   --brand-experiment: var(--accent-color) !important;
   --button-accent: var(--accent-color) !important;
-  --interactive-active: var(--text-link) !important;
+  --interactive-active: #95C3EB !important;
   --interactive-hover: var(--interactive-normal) !important;
 }
