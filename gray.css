@@ -1,6 +1,6 @@
 /* Gray */
 .theme-dark {
-  --accent-color: #70E34E !important;
+  --accent-color: #E9E9E9 !important;
   --background-1: #282828 !important;
   --background-2: #2D2D2D !important;
   --border-color: #282828 !important;
@@ -70,7 +70,7 @@
   --info-warning-foreground: var(--accent-color) !important;
   --activity-card-background: var(--text-normal) !important;
   --brand-experiment: var(--accent-color) !important;
-  --button-accent: var(--accent-color) !important;
+  --button-accent: #89FF68 !important;
   --interactive-active: #95C3EB !important;
   --interactive-hover: var(--interactive-normal) !important;
 }
