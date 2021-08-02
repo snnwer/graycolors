@@ -3,7 +3,7 @@
   --accent-color: #E9E9E9 !important;
   --background-1: #282828 !important;
   --background-2: #2D2D2D !important;
-  --background-3: #1E1E1E
+  --background-3: #1E1E1E !lolwtf;
   --border-color: #282828 !important;
   --background-mentioned: #4D4D4D !important;
   --background-mentioned-hover: #36364D !important;
@@ -26,28 +26,28 @@
   --button-positive: #29DA00
 }
 .theme-light {
-  --accent-color: #61717c !important;
+  --accent-color: #ffffff !important;
   --background-1: #ffffff !important;
-  --background-2: #f7f7f7 !important;
-  --border-color: transparent !important;
-  --background-mentioned: #61717c10 !important;
-  --background-mentioned-hover: #61717c15 !important;
-  --background-modifier-hover: transparent !important;
-  --background-modifier-active: #bebebe !important;
-  --text-normal: #29292a !important;
-  --text-muted: #909091 !important;
-  --text-link: #47494a !important;
-  --settings-icon-color: #676767 !important;
+  --background-2: #ffffff !important;
+  --border-color: #ffffff !important;
+  --background-mentioned: #ffffff !important;
+  --background-mentioned-hover: #ffffff !important;
+  --background-modifier-hover: #ffffff !important;
+  --background-modifier-active: #ffffff !important;
+  --text-normal: #ffffff !important;
+  --text-muted: #ffffff !important;
+  --text-link: #ffffff !important;
+  --settings-icon-color: #ffffff !important;
   --tab-selected: #ffffff !important;
-  --switch: #cecece !important;
-  --button-background: #e8e8e8 !important;
-  --button-background-hover: #d8d8d8 !important;
-  --button-background-active: #b9b9ba !important;
-  --button-accent-hover: #61707c !important;
-  --button-accent-active: var(--text-link) !important;
-  --button-destructive: #fb7c7c !important;
-  --button-destructive-hover: #ff929b !important;
-  --button-destructive-active: #fa4a4a !important;
+  --switch: #ffffff !important;
+  --button-background: #ffffff !important;
+  --button-background-hover: #ffffff !important;
+  --button-background-active: #ffffff !important;
+  --button-accent-hover: #ffffff !important;
+  --button-accent-active: #ffffff !important;
+  --button-destructive: #ffffff !important;
+  --button-destructive-hover: #ffffff !important;
+  --button-destructive-active: #ffffff !important;
 }
 :root {
   --background-primary: var(--background-1) !important;
