@@ -58,7 +58,7 @@
   --background-accent: var(--background-2) !important;
   --background-modifier-selected: var(--background-2) !important;
   --text-positive: var(--text-normal) !important;
-  --interactive-selected: var(--background-primary) !important;
+  --interactive-selected: var(--accent-color) !important;
   --background-modifier-accent: transparent !important;
   --background-message-hover: transparent !important;
   --interactive-normal: var(--text-normal) !important;
